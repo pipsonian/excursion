@@ -1,9 +1,10 @@
 h1 {
   font-family: Verdana
+  color: white;
   font-weight: normal;
-  font-size: 50px
-  color: white
+  font-size: 50px;
   text-align: center;
+  color: white;
 }
 .cta {
   color: Aquamarine;
@@ -13,6 +14,7 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 .description {
   font-family: Verdana;
